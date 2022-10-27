@@ -54,4 +54,10 @@
 "price":4400,
 "description":"Basic programming language",
 "image":"https://i0.wp.com/www.inventiva.co.in/wp-content/uploads/2021/12/digital_marketing_img_00.jpg",
-"rating":{"rate":1.9,"count":100}}]
+"rating":{"rate":1.9,"count":100}},
+{"id":4,
+"name":"ASP.NEt",
+"price":7000,
+"description":"Basic programming language",
+"image":"https://www.mindrops.com/images/asp.net-logo.jpg",
+"rating":{"rate":2.1,"count":430}}]

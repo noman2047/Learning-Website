@@ -1,1 +1,0 @@
-#eSchool is a elearning Platform.

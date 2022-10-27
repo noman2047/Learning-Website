@@ -1,38 +1,38 @@
 [
   {
-    "id": "01",
+    "id": "1",
     "name": "JavaScript"
   },
   {
-    "id": "02",
+    "id": "2",
     "name": "Python"
   },
   {
-    "id": "03",
+    "id": "3",
     "name": "C programming"
   },
   {
-    "id": "04",
+    "id": "4",
     "name": "ASP.net"
   },
   {
-    "id": "05",
+    "id": "5",
     "name": "PHP(Laravel)"
   },
   {
-    "id": "06",
+    "id": "6",
     "name": "Android"
   },
   {
-    "id": "07",
+    "id": "7",
     "name": "Machine Learning"
   },
   {
-    "id": "08",
+    "id": "8",
     "name": "Digital Marketing"
   },
   {
-    "id": "09",
+    "id": "9",
     "name": "ASP.NEt"
   }
 ]

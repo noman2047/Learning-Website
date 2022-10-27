@@ -20,6 +20,12 @@ app.get('/course-topic',(req,res)=>{
   res.send(allTopics);
 })
 
+app.get('/coursee/:id',(req,res)=>{
+  const id=req.params.id;
+  const selectedCourse=allTopicsDetails.find(c=>c.id===id);
+  res.send(selectedCourse);
+})
+
 app.listen(port, ()=>{
   console.log('Topic details.',port);
 })

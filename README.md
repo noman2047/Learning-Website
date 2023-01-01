@@ -1,1 +1,1 @@
-# b610-lerning-platform-server-side-noman2047
+This is eLearning platform.
